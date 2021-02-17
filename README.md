@@ -13,3 +13,5 @@ A.V. Goldberg, J. Algorithms, Vol. 22 (1997), pp. 1--29.
 CS2 was developed by Andrew Goldberg (goldberg@intertrust.com) and
 Boris Cherkassky (cher@cher.msk.su).
 
+ILP solutions are solved by using LPSolve ILP solver
+
