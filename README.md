@@ -5,3 +5,11 @@ FT-VMP: Fault-Tolerant Virtual Machine Placement in Cloud Data Centers: http://c
 Comparing different Virtual Machine placement algorithms in a power efficient data center
 
 There is also code to compare different traffic routing algorithms.
+
+Minimum cost flow is computed using cs2, the second version of scaling algorithm for minimum-cost
+flow problems. For more detailed description, see "An
+Efficient Implementation of a Scaling Minimum-Cost Flow Algorithm" by
+A.V. Goldberg, J. Algorithms, Vol. 22 (1997), pp. 1--29.
+CS2 was developed by Andrew Goldberg (goldberg@intertrust.com) and
+Boris Cherkassky (cher@cher.msk.su).
+
